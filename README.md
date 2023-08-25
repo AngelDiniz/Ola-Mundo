@@ -1,5 +1,5 @@
 # Ola, Mundo.
- Primeiro repositorio do curso de Git e GitHub
+ Primeiro repositorio do curso de Git e GitHub testando novamente, criado durante testes.
 
 Esse repositorio foi criado no curso de Git e GitHub ao VIVO
 
